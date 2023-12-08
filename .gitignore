@@ -1,0 +1,15 @@
+.vscode
+
+
+# builds
+sequential-server
+threaded-server
+blocking-listener
+nonblocking-listener
+select-server
+epoll-server
+uv-server
+uv-timer-sleep-demo
+uv-timer-work-demo
+uv-isprime-server
+threadspammer
